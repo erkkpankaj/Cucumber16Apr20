@@ -1,0 +1,48 @@
+2020-04-15 16:04:918 INFO  LoginPage:54 - Initializing the page objects
+2020-04-15 16:04:68 INFO  LoginPage:66 - Welocme message is correct
+2020-04-15 16:04:76 INFO  LoginPage:75 - Getting the title of PEP application
+2020-04-15 16:04:82 INFO  LoginPage:81 - Entering the user name
+2020-04-15 16:04:266 INFO  LoginPage:83 - Entering the user password
+2020-04-15 16:04:360 INFO  LoginPage:123 - Clicking on the Login button
+2020-04-15 16:04:779 INFO  LoginPage:91 - Home page logo is displayed
+2020-04-15 16:04:779 INFO  LoginPage:98 - User clicking on the Homepage logo
+2020-04-15 16:04:531 INFO  LoginPage:108 - User profile name is displayyed
+2020-04-15 16:04:534 INFO  LoginPage:116 - Clicking on the dropdown iocn
+2020-04-15 16:04:669 INFO  LoginPage:118 - Clicking on the logout button
+2020-04-15 16:04:843 INFO  ServiceHooks:35 - PEP Login and logout test Scenario is pass
+2020-04-15 16:04:385 INFO  LoginPage:54 - Initializing the page objects
+2020-04-15 16:04:451 INFO  LoginPage:66 - Welocme message is correct
+2020-04-15 16:04:454 INFO  LoginPage:81 - Entering the user name
+2020-04-15 16:04:615 INFO  LoginPage:83 - Entering the user password
+2020-04-15 16:04:702 INFO  LoginPage:123 - Clicking on the Login button
+2020-04-15 16:04:768 INFO  ServiceHooks:35 - Data driven testing without examples keyword is pass
+2020-04-15 16:04:41 INFO  LoginPage:54 - Initializing the page objects
+2020-04-15 16:04:106 INFO  LoginPage:66 - Welocme message is correct
+2020-04-15 16:04:107 INFO  LoginPage:81 - Entering the user name
+2020-04-15 16:04:215 INFO  LoginPage:83 - Entering the user password
+2020-04-15 16:04:274 INFO  LoginPage:123 - Clicking on the Login button
+2020-04-15 16:04:443 INFO  LoginPage:146 - Error message is correct
+2020-04-15 16:04:444 INFO  ServiceHooks:35 - Data driven testing without examples keyword is pass
+2020-04-15 16:04:975 INFO  LoginPage:54 - Initializing the page objects
+2020-04-15 16:04:47 INFO  LoginPage:66 - Welocme message is correct
+2020-04-15 16:04:47 INFO  LoginPage:81 - Entering the user name
+2020-04-15 16:04:168 INFO  LoginPage:83 - Entering the user password
+2020-04-15 16:04:229 INFO  LoginPage:123 - Clicking on the Login button
+2020-04-15 16:04:367 INFO  LoginPage:146 - Error message is correct
+2020-04-15 16:04:368 INFO  ServiceHooks:35 - Data driven testing without examples keyword is pass
+2020-04-15 16:04:820 INFO  LoginPage:54 - Initializing the page objects
+2020-04-15 16:04:887 INFO  LoginPage:66 - Welocme message is correct
+2020-04-15 16:04:888 INFO  LoginPage:123 - Clicking on the Login button
+2020-04-15 16:04:05 INFO  LoginPage:133 - Error message is displayed
+2020-04-15 16:04:06 INFO  ServiceHooks:35 - Regression test to validate PEP login mandatory fields ErrorMessage is pass
+2020-04-15 16:04:591 INFO  LoginPage:54 - Initializing the page objects
+2020-04-15 16:04:646 INFO  LoginPage:66 - Welocme message is correct
+2020-04-15 16:04:653 INFO  LoginPage:75 - Getting the title of PEP application
+2020-04-15 16:04:653 INFO  ServiceHooks:35 - Regression test to validate that user on PEP Login page is pass
+2020-04-15 16:04:94 INFO  LoginPage:54 - Initializing the page objects
+2020-04-15 16:04:147 INFO  LoginPage:66 - Welocme message is correct
+2020-04-15 16:04:147 INFO  LoginPage:81 - Entering the user name
+2020-04-15 16:04:284 INFO  LoginPage:83 - Entering the user password
+2020-04-15 16:04:371 INFO  LoginPage:123 - Clicking on the Login button
+2020-04-15 16:04:540 INFO  LoginPage:146 - Error message is correct
+2020-04-15 16:04:540 INFO  ServiceHooks:35 - Regression Test to check error meesge on invalid login is pass
